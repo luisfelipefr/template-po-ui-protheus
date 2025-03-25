@@ -1,6 +1,6 @@
 # Template para Projetos PO-UI/Protheus
 
-Para compilar o projeto e Buildar deve utilizar a versão do Node <19.0.0. Nesse Projeto foi utilizado a `@18.19.0`
+Para compilar o projeto e Buildar deve utilizar a versão do Node `<19.0.0`. Nesse Projeto foi utilizado a `@18.19.0`
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.7.
 
