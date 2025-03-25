@@ -1,5 +1,7 @@
 # Template para Projetos PO-UI/Protheus
 
+Para compilar o projeto e Buildar deve utilizar a versão do Node <19.0.0. Nesse Projeto foi utilizado a `@18.19.0`
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.7.
 
 ## Development server
@@ -53,7 +55,7 @@ For more information on using the Angular CLI, including detailed command refere
 
 https://github.com/deboraconstantino/universo_totvs24/blob/main/package.json
 
-## Como fazer para compilar no Protheus
+## Como fazer para compilar no Protheus?
 
 Primeiramente se deve buildar o projeto 
 para fazer isso utilize o comando:
